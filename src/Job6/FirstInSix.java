@@ -1,4 +1,4 @@
-package Job6;
+package JobSix;
 
 public class FirstInSix {
 
