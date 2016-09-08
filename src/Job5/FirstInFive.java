@@ -2,7 +2,7 @@ package Job5;
 
 import java.util.Arrays;
 
-public class FirstInSix {
+public class FirstInFive {
 
     public static void main(String[] args) {
 
